@@ -4,7 +4,7 @@
 <h3 align="center">Dynamic Window Manager</h3>
 
   <p align="center">
-  A custom build of [dwm](https://dwm.suckless.org/) by suckless
+  A custom build of <a href="https://dwm.suckless.org/">dwm</a> by suckless
     <br />
     <br />
     <a href="https://github.com/mgdawber/dwm/issues">Report Bug</a>
