@@ -43,8 +43,8 @@
 ## About The Project
 
 ![Dwm][product-screenshot1]
-![Dwm][product-screenshot2]
-![Dwm][product-screenshot3]
+![Background][product-screenshot2]
+![Rofi][product-screenshot3]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -128,6 +128,6 @@ Project Link: [https://github.com/mgdawber/dwm](https://github.com/mgdawber/dwm)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[product-screenshot1]: preview/preview1.png
-[product-screenshot2]: preview/preview2.png
-[product-screenshot3]: preview/preview3.png
+[product-screenshot1]: preview/preview_1.png
+[product-screenshot2]: preview/preview_2.png
+[product-screenshot3]: preview/preview_3.png
