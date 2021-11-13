@@ -42,7 +42,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Dwm][product-screenshot]
+![Dwm][product-screenshot1]
+![Dwm][product-screenshot2]
+![Dwm][product-screenshot3]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -126,5 +128,6 @@ Project Link: [https://github.com/mgdawber/dwm](https://github.com/mgdawber/dwm)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[product-screenshot]: ./preview.png
-
+[product-screenshot1]: preview/preview1.png
+[product-screenshot2]: preview/preview2.png
+[product-screenshot3]: preview/preview3.png
