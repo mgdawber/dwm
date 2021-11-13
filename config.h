@@ -7,7 +7,7 @@ static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "Hack:size=14" };
-static const char col_light_grey[]  = "#eeeeee";
+static const char col_light_grey[]  = "#FBF1C7";
 static const char col_dark_grey[]   = "#878787";
 static const char col_cyan[]        = "#94C291";
 static const char col_red[]         = "#af0000";
@@ -18,7 +18,7 @@ static const char *colors[][3]      = {
 };
 
 /* tagging */
-static const char *tags[] = { "", "", "", "", "" };
+static const char *tags[] = { "", "", "", "","", "", "", "", "" };
 
 static const Rule rules[] = {
 	/* xprop(1):
