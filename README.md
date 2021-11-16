@@ -122,9 +122,10 @@ Project Link: [https://github.com/mgdawber/dwm](https://github.com/mgdawber/dwm)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+
+Full Gaps Patch: [https://dwm.suckless.org/patches/fullgaps/](https://dwm.suckless.org/patches/fullgaps/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
