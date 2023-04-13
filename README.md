@@ -7,9 +7,9 @@
   A custom build of <a href="https://dwm.suckless.org/">dwm</a> by suckless
     <br />
     <br />
-    <a href="https://github.com/mgdawber/dwm/issues">Report Bug</a>
+    <a href="https://todo.sr.ht/~dawbs/dwm">Report Bug</a>
     ·
-    <a href="https://github.com/mgdawber/dwm/issues">Request Feature</a>
+    <a href="https://todo.sr.ht/~dawbs/dwm">Request Feature</a>
   </p>
 </div>
 
@@ -66,7 +66,7 @@ To get a local copy up and running follow these example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/mgdawber/dwm.git
+   git clone https://git.sr.ht/~dawbs/dwm
    ```
 2. Make the project
    ```sh
@@ -80,9 +80,8 @@ To get a local copy up and running follow these example steps.
 ## Roadmap
 
 - [ ] Implement scratch pad with grave key.
-- [ ] Implement floating centered master.
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://todo.sr.ht/~dawbs/dwm) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -116,7 +115,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/mgdawber/dwm](https://github.com/mgdawber/dwm)
+Project Link: [https://sr.ht/~dawbs/dwm/](https://sr.ht/~dawbs/dwm/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
