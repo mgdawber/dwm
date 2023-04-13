@@ -4,7 +4,7 @@
 <h3 align="center">Dynamic Window Manager</h3>
 
   <p align="center">
-  A custom build of <a href="https://dwm.suckless.org/">dwm</a> by suckless
+  A custom build of <a href="https://dwm.suckless.org/">dwm</a> by suckless.
     <br />
     <br />
     <a href="https://todo.sr.ht/~dawbs/dwm">Report Bug</a>
@@ -12,8 +12,6 @@
     <a href="https://todo.sr.ht/~dawbs/dwm">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -29,15 +27,12 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -47,7 +42,6 @@
 ![Rofi][product-screenshot3]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -72,19 +66,7 @@ To get a local copy up and running follow these example steps.
    ```sh
    make clean install
    ```
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Implement scratch pad with grave key.
-
-See the [open issues](https://todo.sr.ht/~dawbs/dwm) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -102,8 +84,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 ## License
 
@@ -111,14 +91,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- CONTACT -->
 ## Contact
 
 Project Link: [https://sr.ht/~dawbs/dwm/](https://sr.ht/~dawbs/dwm/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
