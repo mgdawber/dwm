@@ -1,49 +1,16 @@
-<br />
-<div align="center">
 
-<h3 align="center">Dynamic Window Manager</h3>
+# Dynamic Window Manager
 
-  <p align="center">
-  A custom build of <a href="https://dwm.suckless.org/">dwm</a> by suckless.
-    <br />
-    <br />
-    <a href="https://todo.sr.ht/~dawbs/dwm">Report Bug</a>
-    ·
-    <a href="https://todo.sr.ht/~dawbs/dwm">Request Feature</a>
-  </p>
-</div>
+A customised build of dwm.
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+> dwm is a dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. All of the layouts can be applied dynamically, optimising the environment for the application in use and the task performed.
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 ![Dwm][product-screenshot1]
 ![Background][product-screenshot2]
 ![Rofi][product-screenshot3]
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -60,15 +27,13 @@ To get a local copy up and running follow these example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://git.sr.ht/~dawbs/dwm
+   git clone https://github.com/mgdawber/dwm
    ```
 2. Make the project
    ```sh
    make clean install
    ```
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
+   
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -82,28 +47,13 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://sr.ht/~dawbs/dwm/](https://sr.ht/~dawbs/dwm/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 Full Gaps Patch: [https://dwm.suckless.org/patches/fullgaps/](https://dwm.suckless.org/patches/fullgaps/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 [product-screenshot1]: preview/preview_1.png
 [product-screenshot2]: preview/preview_2.png
